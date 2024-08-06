@@ -2,7 +2,7 @@
 
 > This is not a completed color scheme. Lot of elements have default colors.
 
-![This is how it looks on Alacritty with Tmux](https://github.com/mbadrala/emrys/blob/main/screenshot.png?raw=true)
+![This is how it looks on Alacritty with Tmux](https://github.com/user-attachments/assets/a33476fb-59cc-449f-a3e0-1fa3b1abebe2)
 
 ## Installation
 
